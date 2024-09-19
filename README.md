@@ -26,7 +26,7 @@ SVMStore es una tienda de videojuegos desarrollada utilizando arquitectura hexag
 1. **Clona el repositorio:**
 
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/Svallecilla/svmStore.git
    cd svmStore
 
 2. **Puedes crear un entorno virtual**
